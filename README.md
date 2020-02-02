@@ -5,8 +5,11 @@ Our device repository:[exthmui-devices
 ## How to apply?
 You need to fulfill these requirement before applying:  
 
-  1.
-  2.
+  1.Committed to serve
+  2.Have already compile a unofficial version of exTHmui 
+  3.Have the real device
+  4.In posession of Device/Kernel/Vendor Tree
+  5.Have more than 5 month of experience in Android development
 
 
 Apply here after you read the requirement!:[Application Form](https://www.wjx.top/m/55305674.aspx)
