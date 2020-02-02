@@ -15,12 +15,7 @@ You will be contacted in 1 weeks time after verification by our officials on whe
 If your application is successful,you will be added into our official group(you need to have communication tools like QQ)
 
 ### Current official maintainers and support team
-
-/***
-| __Animals__ | __Sports__ | __Fruits__ |
-|-------------|------------|------------|
-| Cat         | Soccer     | Apple      |
-| Dog         | Basketball | Orange     |
-***/
-
-
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
