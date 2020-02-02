@@ -3,9 +3,10 @@ Our device repository:[exthmui-devices
 ](https://github.com/exthmui-devices)
 
 ## 1. How to apply?
-You need to fulfill these requirement before apllying:
-1.
-2.
+You need to fulfill these requirement before applying:  
+
+  1.
+  2.
 
 
 After you had read the requirements,apply here!:[Application Form]()
@@ -15,3 +16,4 @@ If your application is successful,you will be added into our official group(you 
 
 Current official maintainers and devices
 | name | Device name | codename | official thread |
+|--|--|--|
