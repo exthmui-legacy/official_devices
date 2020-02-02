@@ -17,5 +17,5 @@ If your application is successful,you will be added into our official group(you 
 ### Current official maintainers and support team
 | Maintainer  | Role | Device Name | Codename |
 | ------------- | ------------- | ------------- | ------------- |
-|   | Content Cell  | ------------- | ------------- | ------------- |
+| Content Cell  | ------------- | ------------- | ------------- |
 | Content Cell  | Content Cell  | ------------- | ------------- |
