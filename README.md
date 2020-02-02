@@ -9,7 +9,7 @@ You need to fulfill these requirement before applying:
   2.
 
 
-After you had read the requirements,apply here!:[Application Form]()
+Apply here after you read the requirement!:[Application Form]()
 You will be contacted in 1 weeks time after verification by our officials on whether your application is successful
 
 If your application is successful,you will be added into our official group(you need to have communication tools like QQ)
