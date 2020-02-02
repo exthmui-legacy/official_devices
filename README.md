@@ -15,8 +15,8 @@ You will be contacted in 1 weeks time after verification by our officials on whe
 If your application is successful,you will be added into our official group(you need to have communication tools like QQ)
 
 ### Current official maintainers and support team
-| Maintainer  | Role | Device Name | Codename |
-| 一枚囧仙 | Main In-Charged | ------------- | ------------- |
+| Maintainer  |            Role |   Device Name |      Codename |
+| 一枚囧仙     | Main In-Charged | ------------- | ------------- |
 | LightColours  | Marketing Team | ------------- | ------------- |
 |  博麗霊梦 | User Interface Development  | ------------- | ------------- |
 |  博 | Marketing Team/Support  Team  | ------------- | ------------- |
