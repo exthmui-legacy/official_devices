@@ -29,9 +29,9 @@ If your application is successful,you will be added into our official group(you 
 | sYYLG | Code Upload  | ------------- | ------------- |
 | cjybyjk  | Device Maintainer/Theme Development | Redmi K20 Pro | raphael |
 | 樱花の风誓 | Server Maintenance  | ------------- | ------------- |
-| 寒词ZhuoFan | Device Maintainer/Server Maintenance | Redmi Note 8 | ginkgo |
+| 寒词(ZhuoFan) | Device Maintainer/Server Maintenance | Redmi Note 8 | ginkgo |
 | 长生zzz  | Icon Design | ------------- | ------------- |
 | DiseR | System Development | Redmi Note 7 Pro | violet |
 | wudilsr | Device Maintainer | ------------- | ------------- |
 | ISNing  | Device Maintainer | ------------- | ------------- |
-| 凛凛凛个鳖 | Device Maintainer | Redmi Note 4(X),Google Pixel & Pixel XL | marlin,sailfish,mido |
+| 凛凛凛个鳖(baolong24) | Device Maintainer | Redmi Note 4(X),Google Pixel & Pixel XL | marlin,sailfish,mido |
