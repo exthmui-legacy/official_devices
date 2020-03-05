@@ -31,5 +31,4 @@ If your application is successful,you will be added into our official group(you 
 | 樱花の风誓 | Server Maintenance  | ------------- | ------------- |
 | 寒词(ZhuoFan) | Device Maintainer/Server Maintenance | Redmi Note 8 | ginkgo |
 | 长生zzz  | Icon Design | ------------- | ------------- |
-| DiseR | System Development | Redmi Note 7 Pro | violet |
-| 凛凛凛个鳖(baolong24) | Device Maintainer | Redmi Note 4(X),Google Pixel & Pixel XL | marlin,sailfish,mido |
+| 凛凛凛个鳖(baolong24) | Device Maintainer | Redmi Note 4(X),Redmi Note 5 Pro | mido, whyred |
