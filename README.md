@@ -32,3 +32,4 @@ If your application is successful,you will be added into our official group(you 
 | 寒词(ZhuoFan) | Device Maintainer/Server Maintenance | Redmi Note 8 | ginkgo |
 | 长生zzz  | Icon Design | ------------- | ------------- |
 | 凛凛凛个鳖(baolong24) | Device Maintainer | Redmi Note 4(X),Redmi Note 5 Pro | mido, whyred |
+| Soft_ASOT | Device Maintainer | Essential Phone | mata |
