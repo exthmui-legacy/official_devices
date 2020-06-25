@@ -29,7 +29,7 @@ If your application is successful,you will be added into our official group(you 
 | sYYLG | Code Upload  | ------------- | ------------- |
 | cjybyjk  | Device Maintainer/Theme Development | Redmi K20 Pro | raphael |
 | 樱花の风誓 | Server Maintenance  | ------------- | ------------- |
-| 寒词(ZhuoFan) | Device Maintainer/Server Maintenance | Samsung Galaxy S10 Lite | r5q |
+| 寒词(ZhuoFan) | Device Maintainer/Server Maintenance | Redmi K30 5G | picasso |
 | 长生zzz  | Icon Design | ------------- | ------------- |
 | 凛凛凛个鳖(baolong24) | Device Maintainer | Xiaomi Mi 2(S), Redmi Note 4G Single SIM, Redmi Note 3, Redmi Note 4(X) | aries, dior, kenzo, mido |
 | Soft_ASOT | Device Maintainer | Essential Phone | mata |
