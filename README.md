@@ -1,35 +1,12 @@
-# Official devices application
-Our device repository:[exthmui-devices
+这里是我们的官方机型仓库: [exthmui-devices
 ](https://github.com/exthmui-devices)
+## 如何成为 exTHmUI 官方维护者
+你首先需要以下条件:  
+1. 您必须能够熟练的使用 Git
+2. 您必须编译一个非官方版本的 exTHmUI 至少半个月以上
+3. 您必须持有您维护的设备
 
-## How to apply?
-You need to fulfill these requirement before applying:  
-
-    1.Committed to serve  
-    2.Have already compile a unofficial version of exTHmui  
-    3.Have the real device  
-    4.In posession of Device/Kernel/Vendor Tree 
-    5.Have more than 5 month of experience in Android development 
-
-
-Apply here after you read the requirement!:[Application Form](https://www.wjx.top/m/55305674.aspx)
-You will be contacted in 1 weeks time after verification by our officials on whether your application is successful
-
-If your application is successful,you will be added into our official group(you need to have communication tools like QQ)
-
-### Current official maintainers and support team
-| Maintainer  | Roles | Device Name | Codename |
-| ------------- | ------------- | ------------- | ------------- |
-| 一枚囧仙 | Main In-Charged | ------------- | ------------- |
-| LightColours | Marketing Team | ------------- | ------------- |
-| 博麗霊梦 | User Interface Development  | ------------- | ------------- |
-| 博 | Marketing Team/Support  Team  | ------------- | ------------- |
-| 巫女巫女萃香 | User Interface Development  | ------------- | ------------- |
-| 普通的魔法使56 | System Core Optimization  | ------------- | ------------- |
-| sYYLG | Code Upload  | ------------- | ------------- |
-| cjybyjk  | Device Maintainer/Theme Development | Redmi K20 Pro | raphael |
-| 樱花の风誓 | Server Maintenance  | ------------- | ------------- |
-| 寒词(ZhuoFan) | Device Maintainer/Server Maintenance | Redmi K30 5G | picasso |
-| 长生zzz  | Icon Design | ------------- | ------------- |
-| 凛凛凛个鳖(baolong24) | Device Maintainer | Xiaomi Mi 2(S), Redmi Note 4G Single SIM, Redmi Note 3, Redmi Note 4(X) | aries, dior, kenzo, mido |
-| Soft_ASOT | Device Maintainer | Essential Phone | mata |
+如果您认为自己符合要求，您可以通过以下几种方式进行申请
+ 1. 您在 exTHmUI 官方 QQ / Telegram 交流群中私聊管理进行申请
+ 2. 发送申请邮件到 [baolong24@touhou-project.org](mailto:baolong24@touhou-project.org)
+ 3. 填写问卷 [https://forms.gle/ZF336gsqSXr4KMhG8](https://forms.gle/ZF336gsqSXr4KMhG8)
