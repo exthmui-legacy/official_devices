@@ -10,3 +10,4 @@
  1. 您在 exTHmUI 官方 QQ / Telegram 交流群中私聊管理进行申请
  2. 发送申请邮件到 [baolong24@touhou-project.org](mailto:baolong24@touhou-project.org)
  3. 填写问卷 [https://forms.gle/ZF336gsqSXr4KMhG8](https://forms.gle/ZF336gsqSXr4KMhG8)
+ 4. 在此仓库发起 issues 申请
