@@ -2,7 +2,7 @@
 name: Apply maintainer
 about: Apply to be a exTHmUI maintainer at here
 title: New maintainer
-assignees: [baolong24, SakuraiLH]
+assignees: [SakuraiLH]
 ---
 
 ## Device you want to apply for

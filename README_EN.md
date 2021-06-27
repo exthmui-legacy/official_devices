@@ -17,8 +17,7 @@ First, you need to meet the following conditions, Anyone who does not meet the f
 
 If you think you meet the requirements, you can apply in one of the following ways
 1. By chatting with the admin in the exTHmUI official QQ / Telegram group.
-2. Send the application email to [baolong24@touhou-project.org](mailto:baolong24@touhou-project.org)
-3. Create issues at this repository
+2. Create issues at this repository
 
 ## How to apply to be an exTHmUI community maintainer
 If you don't think you meet the requirements to become an official maintainer, you can apply to become a community maintainer first.
@@ -30,5 +29,4 @@ If you don't think you meet the requirements to become an official maintainer, y
 
 If you think you meet the requirements, you can apply in one of the following ways
 1. By chatting with the admin in the exTHmUI official QQ / Telegram group.
-2. Send the application email to [baolong24@touhou-project.org](mailto:baolong24@touhou-project.org)
-3. Create issues at this repository
+2. Create issues at this repository

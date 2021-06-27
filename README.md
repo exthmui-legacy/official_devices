@@ -17,8 +17,7 @@
 
 如果您认为自己符合要求，您可以通过以下几种方式进行申请
 1. 您在 exTHmUI 官方 QQ / Telegram 交流群中私聊管理进行申请
-2. 发送申请邮件到 [baolong24@touhou-project.org](mailto:baolong24@touhou-project.org)
-3. 在此仓库发起 issues 申请
+2. 在此仓库发起 issues 申请
 
 ## 如何成为 exTHmUI 社区维护者
 如果您认为自己不满足成为官方维护者的条件，则您可以申请成为社区维护者
@@ -33,5 +32,4 @@
 
 如果您认为自己符合要求，您可以通过以下几种方式进行申请
 1. 您在 exTHmUI 官方 QQ / Telegram 交流群中私聊管理进行申请
-2. 发送申请邮件到 [baolong24@touhou-project.org](mailto:baolong24@touhou-project.org)
-3. 在此仓库发起 issues 申请
+2. 在此仓库发起 issues 申请
